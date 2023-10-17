@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
+![](https://www.loom.com/share/abf288939126443d914d89c81342e32b)
 
 ## View live demo [here](https://abusaid.netlify.app/).
 
