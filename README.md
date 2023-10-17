@@ -65,23 +65,6 @@ git --version
 
 # Getting Started :dart:
 
-### Fork and Clone the repo
-
-#### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
-```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-
-cd developer-portfolio
-```
-
-### Clone with TypeScript
-
-```
-git clone -b typescript-version https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-
-cd developer-portfolio
-```
 
 ### Install packages from the root directory
 
