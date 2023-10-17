@@ -294,7 +294,7 @@ export const educationData = [
 
 <br />
 
-# Hosting :globe_with_meridians:
+
 
 # SEO :spider:
 
