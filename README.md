@@ -8,7 +8,7 @@
 
 ![](https://karthik-portfolio.s3.ap-south-1.amazonaws.com/sample+demo.gif)
 
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https://karthikpuvvula.netlify.app/).
 
 ---
 
@@ -19,6 +19,7 @@
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
 - [Folder Structure](#folder-structure-open_file_folder)
+
 ---
 
 # Sections :bookmark:
@@ -55,7 +56,6 @@ git --version
 <br />
 
 # Getting Started :dart:
-
 
 ### Install packages from the root directory
 
@@ -194,7 +194,3 @@ yarn start
 ├── package.json
 └── yarn.lock
 ```
-
-
-
-
