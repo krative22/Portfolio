@@ -221,63 +221,6 @@ yarn start
 └── yarn.lock
 ```
 
----
 
-# Usage :joystick:
 
-### Customize your details for each component in `src/data` [folder](https://github.com/hhhrrrttt222111/developer-portfolio/tree/master/src/data).
 
-Eg:
-
-```javascript
-export const headerData = {
-  name: "-- YOUR NAME --",
-  title: "-- YOUR TITLE --",
-  desciption: "-- DESCRIPTION --",
-  image: "-- IMAGE --",
-  resumePdf: "",
-};
-
-// You can also import image and PDF from assets as shown below
-
-import resume from "../assets/pdf/resume.pdf";
-import profileImg from "../assets/png/profileImg";
-
-export const headerData = {
-  name: "-- YOUR NAME --",
-  title: "-- YOUR TITLE --",
-  desciption: "-- DESCRIPTION --",
-  image: profileImg,
-  resumePdf: resume,
-};
-```
-
----
-
-```javascript
-// EXAMPLE
-export const educationData = [
-  {
-    id: 1,
-    institution: "-- INSTITUTION NAME --",
-    course: "-- COURSE NAME --",
-    startYear: "2017",
-    endYear: "2019",
-  },
-  //
-];
-```
-
----
-
-### Instructions and format for each section can be found inside the data files.
-
-<br />
-
-# SEO :spider:
-
-### Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.
-
-### Add the below code snippet to `public/index.html` with your site info. This step is not mandatory
-
-<br />
