@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![](https://www.loom.com/share/abf288939126443d914d89c81342e32b)
+![](https://karthik-portfolio.s3.ap-south-1.amazonaws.com/Flonnect_2023-10-17_c3aad44b-0646-44ab-9d5c-5b2a4820c0b9+00_00_00-00_00_30.gif)
 
 ## View live demo [here](https://abusaid.netlify.app/).
 
