@@ -14,7 +14,7 @@
 }
 
 .landing--img {
-  --img-size: 30rem;
+  --img-size: 25rem;
   position: absolute;
   left: 35%;
   transform: translateX(-50%);
@@ -25,7 +25,6 @@
   transition: opacity 0.3s, filter 1s ease-in;
   -webkit-filter: grayscale(0%);
   filter: grayscale(0%);
-
 }
 
 .landing--img:hover {
